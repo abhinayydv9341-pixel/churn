@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/customers.csv
+models/
+reports/
+.pytest_cache/
